@@ -16,7 +16,7 @@ fetch(url,
         method: 'POST',
         headers: {'Accept':'application/json',
                   'Content-type': 'application/json',
-        Authorization: 'Bearer 1|U71KLJ9lR0yTcFk6Q8kBuVaJzZKJ8h2ZQemydUOD' },
+        Authorization: 'Bearer 2|mCDjh1wgj01ITnD14uePFcyanFDgj1LhhdSrsPDp' },
          body: JSON.stringify(newPost)
     }).then(
    (response => response.json()))
